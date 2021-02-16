@@ -1,0 +1,20 @@
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\bin\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.exe.config
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\bin\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.exe
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\bin\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.pdb
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.csprojAssemblyReference.cache
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061_I.U_Kottahachchi_ITE1112_Assignment_2.Form1.resources
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061_I.U_Kottahachchi_ITE1112_Assignment_2.Properties.Resources.resources
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.csproj.GenerateResource.cache
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.exe
+C:\Users\Isuru\source\repos\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.pdb
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\bin\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.exe.config
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\bin\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.exe
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\bin\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.pdb
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.csprojAssemblyReference.cache
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061_I.U_Kottahachchi_ITE1112_Assignment_2.Form1.resources
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061_I.U_Kottahachchi_ITE1112_Assignment_2.Properties.Resources.resources
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.csproj.GenerateResource.cache
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.exe
+C:\Users\Isuru\Desktop\E1846061 I.U Kottahachchi ITE1112 Assignment 2\E1846061 I.U Kottahachchi ITE1112 Assignment 2\obj\Debug\E1846061 I.U Kottahachchi ITE1112 Assignment 2.pdb
