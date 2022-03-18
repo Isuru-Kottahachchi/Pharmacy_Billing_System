@@ -1,2 +1,2 @@
 # Pharmacy_Billing_System
-Software systems for pharmacy
+Software system for pharmacy
